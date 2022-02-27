@@ -1,0 +1,24 @@
+header {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+article {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(2,1fr);
+}
+
+body {
+    
+}
+
+.left {
+    
+    
+}
+
+.right {
+    margin-bottom: 60%;
+
+}
